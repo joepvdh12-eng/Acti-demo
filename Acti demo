@@ -1,0 +1,7 @@
+acti/
+├── netlify.toml
+├── netlify/functions/generate.js
+└── public/
+    ├── index.html
+    ├── css/style.css
+    └── js/app.js
